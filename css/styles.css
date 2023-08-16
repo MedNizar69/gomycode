@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.nav{
+    background: #E5CCFF;
+    border-radius: 50px;
+    padding: 10px;
+}
+body{
+    background-color: lightblue;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+ }
+      
+.nav{
+    max-width: 10%;
+    max-height: 10%;
+    margin-left: 45%;
+
+
+}
+table{
+    max-width: 10%;
+    max-height: 10%;
+    margin-left: 42%;
+
+}
+body h1{
+  background-color: Grey; 
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+#Me {
+    border-radius: 50%;
+    margin-left:90%;
+    max-width: 10%;
+    max-height: 10%;
+  }
